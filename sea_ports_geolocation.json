@@ -25604,23 +25604,23 @@
     ],
     "code": "1101"
   },
-},
-"USPHD": {
-  "name": "Philadelphia",
-  "city": "Philadelphia",
-  "province": "Pennsylvania",
-  "country": "United States",
-  "alias": [],
-  "regions": [],
-  "coordinates": [
+  "USPHD": {
+    "name": "Philadelphia",
+    "city": "Philadelphia",
+    "province": "Pennsylvania",
+    "country": "United States",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
     -75.1652215,
     39.9525839
-  ],
-  "timezone": "America/New_York",
-  "unlocs": [
-    "USPHL"
-  ],
-  "code": "1101"
+    ],
+    "timezone": "America/New_York",
+    "unlocs": [
+    "USPHD"
+    ],
+    "code": "00000"
+  },  
   "USPHX": {
     "name": "Phoenix",
     "city": "Phoenix",
