@@ -15552,6 +15552,23 @@
     ],
     "code": "58800"
   },
+  "JPSHG": {
+    "name": "Shinagawa",
+    "city": "Shinagawa",
+    "province": "Tokyo",
+    "country": "Japan",
+    "alias": [],
+    "regions": [],
+    "coordinates": [
+      139.758760,
+      35.632596
+    ],
+    "timezone": "Asia/Tokyo",
+    "unlocs": [
+      "JPSHG"
+    ],
+    "code": "00000"  
+  },
   "JPSHS": {
     "name": "Shimonoseki",
     "city": "Shimonoseki",
@@ -25587,6 +25604,23 @@
     ],
     "code": "1101"
   },
+},
+"USPHD": {
+  "name": "Philadelphia",
+  "city": "Philadelphia",
+  "province": "Pennsylvania",
+  "country": "United States",
+  "alias": [],
+  "regions": [],
+  "coordinates": [
+    -75.1652215,
+    39.9525839
+  ],
+  "timezone": "America/New_York",
+  "unlocs": [
+    "USPHL"
+  ],
+  "code": "1101"
   "USPHX": {
     "name": "Phoenix",
     "city": "Phoenix",
