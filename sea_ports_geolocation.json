@@ -17906,6 +17906,25 @@
     ],
     "code": "20113"
   },
+
+  "MXLZC": {
+    "name": "Lazaro Cardenaz",
+    "coordinates": [
+      -102.162155,
+      17.9537525
+    ],
+    "city": "-",
+    "province": "-",
+    "country": "Mexico",
+    "alias": [],
+    "regions": [],
+    "timezone": "-",
+    "unlocs": [
+      "MXLZC"
+    ],
+    "code": "345"
+  },
+  
   "MXMEX": {
     "name": "Ciudad de Mexico",
     "coordinates": [
